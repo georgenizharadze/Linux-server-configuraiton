@@ -2,7 +2,7 @@
 The aim of this project is to learn and practice how to configure an Apache2 web server on a cloud-based Ubuntu server. The web content utlimately deployed consists of an application written in Python, with a PostgreSQL relational database back-end. This applicaiton was created earlier as part of Udacity Full Stack Nanodegree course.  
 
 ## IP address and SSH port
-IP address is: 3.8.219.65.xip.io
+IP address is: 3.8.219.65 (Use 3.8.219.65.xip.io when you connect by a web browser to allow third-party authentication and authorization).
 
 SSH port is: 2200
 
