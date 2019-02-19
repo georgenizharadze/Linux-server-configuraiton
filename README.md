@@ -1,4 +1,5 @@
-# Linux-server-configuraiton
+# Linux-server-configuration
+The aim of this project is to learn and practice how to configure an Apache2 web server on a cloud-based Ubuntu server. The web content utlimately deployed consists or an application written in Python and a PostgreSQL relational database back-end. This applicaiton was created earlier as part of Udacity Full Stack Nanodegree course.  
 
 ## IP address and SSH port
 IP address is: 3.8.219.65
@@ -16,5 +17,4 @@ I created a user for PostgreSQL database per guidance provided by Udacity.
 
 I created an Apache config file for my application, as well as a wsgi file. 
 
-## Grader access
-I will paste the contents of the grader's ssh key in the 'notes to reviewer' section during submission. 
+## Third party resources used to complete the project
