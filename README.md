@@ -18,3 +18,4 @@ I created a user for PostgreSQL database per guidance provided by Udacity.
 I created an Apache config file for my application, as well as a wsgi file. 
 
 ## Third party resources used to complete the project
+The project was developed following the study materials in [a link](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)Udacity Full Stack Developer Nanodegree.
